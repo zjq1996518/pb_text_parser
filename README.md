@@ -15,7 +15,7 @@ rst = parser_pb_txt(content)
 #例子：
 ## 待转换内容
 config.pbtxt:
-```json
+```
 name: "test"
 backend: "python"
 default_model_filename: "model.py"
